@@ -4,3 +4,9 @@
 
 # Module directory
 .terraform/
+
+# Credential files
+*.tfvars
+
+# Key files
+*.pem
